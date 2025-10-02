@@ -9,25 +9,34 @@ This is an app that will use some basic principles and fuctionalities available 
 
 
 # What the app does
-{Describe your purpose for writing this software.}
+This app is an interactive application, which welcomes the user and ask the user to enter a number he wants to calculate. User enters the first desired number then the app will prompt the user to enter the operator, then another prompt to enter the second number. if there is no error retunred the application will calculate your imput and display the results and the operation which you have enterd. 
+but if there is an error, the error handler will hadle it and ask you to re enter the right number which is accepteble to the app.
+
+
 
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+* Erlang 
+* Visual studio code 
+* I use the built in io: library
 
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [github -  Repository](https://github.com/josephiu/Earlang_calc_app)
+* [learnyousomeerlange](https://learnyousomeerlang.com/)
+* [erlang](https://www.erlang.org/)
+
+
+
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I will like to add a memoery section , where i can save each iterations and display them as histrory
+* I will like  to learn how i can add graphical interface to this project.
+* Among the things i will like to add to theis application i will like to add more mathematical
+* operations like square roots, perenthesis, and pie, capabilities 
 
