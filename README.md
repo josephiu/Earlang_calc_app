@@ -35,7 +35,6 @@ but if there is an error, the error handler will hadle it and ask you to re ente
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* I will like to add a memoery section , where i can save each iterations and display them as histrory
 * I will like  to learn how i can add graphical interface to this project.
 * Among the things i will like to add to theis application i will like to add more mathematical
 * operations like square roots, perenthesis, and pie, capabilities 
